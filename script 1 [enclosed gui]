@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dylannpro123/enclosed/main/scripts/build%20a%20boat%20for%20treasure.lua"))()
